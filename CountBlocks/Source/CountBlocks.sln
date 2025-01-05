@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBlocks_v3p3p10", "CountBlocks_v3p3p10\CountBlocks_v3p3p10.csproj", "{2D379EB3-13E4-4861-AD61-68B78B6F4D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBlocks_v4p2p0", "CountBlocks_v4p2p0\CountBlocks_v4p2p0.csproj", "{496B1D0E-104D-4722-B87A-34945F5952EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D379EB3-13E4-4861-AD61-68B78B6F4D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D379EB3-13E4-4861-AD61-68B78B6F4D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D379EB3-13E4-4861-AD61-68B78B6F4D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D379EB3-13E4-4861-AD61-68B78B6F4D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496B1D0E-104D-4722-B87A-34945F5952EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496B1D0E-104D-4722-B87A-34945F5952EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496B1D0E-104D-4722-B87A-34945F5952EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496B1D0E-104D-4722-B87A-34945F5952EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326D89DD-51CF-4919-9777-1D5BDD9A7A03}
+	EndGlobalSection
+EndGlobal

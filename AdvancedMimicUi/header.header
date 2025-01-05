@@ -1,0 +1,9 @@
+{
+  "Authors": "Authors include huwahuwa",
+  "Version": "00000000-0000-0000-0000-000000000000",
+  "ComponentId": {
+    "Guid": "53c06e38-4f5b-47d2-ba2d-4ae3fc2ef8ad",
+    "Name": "AdvancedMimicUi"
+  },
+  "Description": "New description"
+}

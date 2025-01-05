@@ -1,0 +1,6 @@
+v 4.2.0
+Source/CountBlocks_v4p2p0/DLL/0Harmony.dll
+Source/CountBlocks_v4p2p0/DLL/CountBlocks.dll
+v 3.3.10
+Source/CountBlocks_v3p3p10/DLL/0Harmony.dll
+Source/CountBlocks_v3p3p10/DLL/CountBlocks.dll

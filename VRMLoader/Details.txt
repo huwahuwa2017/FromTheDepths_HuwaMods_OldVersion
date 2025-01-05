@@ -1,0 +1,20 @@
+記述日 2020/10/07
+追記   2023/09/29
+
+このModは以下のプログラム・データを含んでいます。
+
+Harmony (Version 1.2.0.1 & 2.2.2)
+https://github.com/pardeike/Harmony
+
+UniVRM (Version 0.55.0 & 0.113)
+https://github.com/vrm-c/UniVRM
+
+ユニティちゃん 3Dモデルデータ (Version 1.2.1)
+https://unity-chan.com/download/releaseNote.php?id=UnityChan
+
+
+
+「UniVRM」のshader部分と「ユニティちゃん 3Dモデルデータ」のanimator controllerをasset bundleに変換して読み込んでいます。
+「UniVRM」のプログラム部分は、Unityの機能であるAssembly definition filesを使用してdllファイルに変換したものを使用しています。
+
+asset bundleやdllファイルの作成に Unity 2017.4.25f1 & 2021.3.5f1 を使用しました。

@@ -1,0 +1,9 @@
+{
+  "Authors": "Authors include huwahuwa",
+  "Version": "00000000-0000-0000-0000-000000000000",
+  "ComponentId": {
+    "Guid": "fdcf4607-7986-4db5-9bd5-a0768c80ff3a",
+    "Name": "VRM_Loader"
+  },
+  "Description": "New description"
+}

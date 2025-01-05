@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefabUI+v3p3p10", "PrefabUI+_v3p3p10\PrefabUI+v3p3p10.csproj", "{8B5BC2B2-15AB-4938-9197-7A76F9541762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefabUI+v4p2p0", "PrefabUI+_v4p2p0\PrefabUI+v4p2p0.csproj", "{39538664-B284-4D59-9602-9EB783558EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5BC2B2-15AB-4938-9197-7A76F9541762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5BC2B2-15AB-4938-9197-7A76F9541762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5BC2B2-15AB-4938-9197-7A76F9541762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5BC2B2-15AB-4938-9197-7A76F9541762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39538664-B284-4D59-9602-9EB783558EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39538664-B284-4D59-9602-9EB783558EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39538664-B284-4D59-9602-9EB783558EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39538664-B284-4D59-9602-9EB783558EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75708DB2-D16D-48AA-B627-AFDC12BE406A}
+	EndGlobalSection
+EndGlobal

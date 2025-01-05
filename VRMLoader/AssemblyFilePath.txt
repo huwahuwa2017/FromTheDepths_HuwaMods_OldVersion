@@ -1,0 +1,54 @@
+v 4.2.0
+Source/VRM_Loader_v4p2p0/DLL/FastSpringBone10.dll
+Source/VRM_Loader_v4p2p0/DLL/MToon.dll
+Source/VRM_Loader_v4p2p0/DLL/UniGLTF.Utils.dll
+Source/VRM_Loader_v4p2p0/DLL/VRMShaders.GLTF.IO.Runtime.dll
+Source/VRM_Loader_v4p2p0/DLL/VRMShaders.GLTF.UniUnlit.Runtime.dll
+Source/VRM_Loader_v4p2p0/DLL/VRMShaders.VRM10.Format.Runtime.dll
+Source/VRM_Loader_v4p2p0/DLL/VRMShaders.VRM10.MToon10.Runtime.dll
+Source/VRM_Loader_v4p2p0/DLL/UniGLTF.dll
+Source/VRM_Loader_v4p2p0/DLL/UniHumanoid.dll
+Source/VRM_Loader_v4p2p0/DLL/VrmLib.dll
+Source/VRM_Loader_v4p2p0/DLL/VRM10.dll
+Source/VRM_Loader_v4p2p0/DLL/0Harmony.dll
+Source/VRM_Loader_v4p2p0/DLL/VRM_Loader.dll
+v 3.7.3
+Source/VRM_Loader_v3p7p3/DLL/FastSpringBone10.dll
+Source/VRM_Loader_v3p7p3/DLL/MToon.dll
+Source/VRM_Loader_v3p7p3/DLL/UniGLTF.Utils.dll
+Source/VRM_Loader_v3p7p3/DLL/VRMShaders.GLTF.IO.Runtime.dll
+Source/VRM_Loader_v3p7p3/DLL/VRMShaders.GLTF.UniUnlit.Runtime.dll
+Source/VRM_Loader_v3p7p3/DLL/VRMShaders.VRM10.Format.Runtime.dll
+Source/VRM_Loader_v3p7p3/DLL/VRMShaders.VRM10.MToon10.Runtime.dll
+Source/VRM_Loader_v3p7p3/DLL/UniGLTF.dll
+Source/VRM_Loader_v3p7p3/DLL/UniHumanoid.dll
+Source/VRM_Loader_v3p7p3/DLL/VrmLib.dll
+Source/VRM_Loader_v3p7p3/DLL/VRM10.dll
+Source/VRM_Loader_v3p7p3/DLL/0Harmony.dll
+Source/VRM_Loader_v3p7p3/DLL/VRM_Loader.dll
+v 3.6.4
+Source/VRM_Loader_v3p6p4/DLL/FastSpringBone10.dll
+Source/VRM_Loader_v3p6p4/DLL/MToon.dll
+Source/VRM_Loader_v3p6p4/DLL/UniGLTF.Utils.dll
+Source/VRM_Loader_v3p6p4/DLL/VRMShaders.GLTF.IO.Runtime.dll
+Source/VRM_Loader_v3p6p4/DLL/VRMShaders.GLTF.UniUnlit.Runtime.dll
+Source/VRM_Loader_v3p6p4/DLL/VRMShaders.VRM10.Format.Runtime.dll
+Source/VRM_Loader_v3p6p4/DLL/VRMShaders.VRM10.MToon10.Runtime.dll
+Source/VRM_Loader_v3p6p4/DLL/UniGLTF.dll
+Source/VRM_Loader_v3p6p4/DLL/UniHumanoid.dll
+Source/VRM_Loader_v3p6p4/DLL/VrmLib.dll
+Source/VRM_Loader_v3p6p4/DLL/VRM10.dll
+Source/VRM_Loader_v3p6p4/DLL/0Harmony.dll
+Source/VRM_Loader_v3p6p4/DLL/VRM_Loader.dll
+v 3.5.5
+Source/VRM_Loader_v3p5p5/DLL/0Harmony.dll
+Source/VRM_Loader_v3p5p5/DLL/UniVRM.dll
+Source/VRM_Loader_v3p5p5/DLL/VRM_Loader.dll
+v 3.3.2
+Source/VRM_Loader_v3p3p2/DLL/0Harmony.dll
+Source/VRM_Loader_v3p3p2/DLL/UniVRM.dll
+Source/VRM_Loader_v3p3p2/DLL/VRM_Loader.dll
+v 3.2.9
+Source/VRM_Loader_v3p2p9/DLL/0Harmony.dll
+Source/VRM_Loader_v3p2p9/DLL/UniVRM.dll
+Source/VRM_Loader_v3p2p9/DLL/VRM_Loader.dll

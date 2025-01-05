@@ -1,0 +1,33 @@
+v 4.2.0
+Source/AdvancedMimicUi_v4p2p0/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v4p2p0/DLL/AdvancedMimicUi.dll
+v 4.1.2
+Source/AdvancedMimicUi_v4p1p2/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v4p1p2/DLL/AdvancedMimicUi.dll
+v 3.8.5
+Source/AdvancedMimicUi_v3p8p5/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p8p5/DLL/AdvancedMimicUi.dll
+v 3.8.0
+Source/AdvancedMimicUi_v3p8p0/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p8p0/DLL/AdvancedMimicUi.dll
+v 3.6.4
+Source/AdvancedMimicUi_v3p6p4/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p6p4/DLL/AdvancedMimicUi.dll
+v 3.6.2
+Source/AdvancedMimicUi_v3p6p2/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p6p2/DLL/AdvancedMimicUi.dll
+v 3.5.9
+Source/AdvancedMimicUi_v3p5p9/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p5p9/DLL/AdvancedMimicUi.dll
+v 3.5.5
+Source/AdvancedMimicUi_v3p5p5/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p5p5/DLL/AdvancedMimicUi.dll
+v 3.5.2
+Source/AdvancedMimicUi_v3p5p2/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p5p2/DLL/AdvancedMimicUi.dll
+v 3.4.2
+Source/AdvancedMimicUi_v3p4p2/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p4p2/DLL/AdvancedMimicUi.dll
+v 3.3.8
+Source/AdvancedMimicUi_v3p3p8/DLL/0Harmony.dll
+Source/AdvancedMimicUi_v3p3p8/DLL/AdvancedMimicUi.dll

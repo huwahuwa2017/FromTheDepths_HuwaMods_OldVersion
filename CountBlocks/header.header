@@ -1,0 +1,9 @@
+{
+  "Authors": "Authors include huwahuwa",
+  "Version": "00000000-0000-0000-0000-000000000000",
+  "ComponentId": {
+    "Guid": "b8ca0da1-21e9-4d20-9bb7-f90136fbce88",
+    "Name": "CountBlocks"
+  },
+  "Description": "New description"
+}

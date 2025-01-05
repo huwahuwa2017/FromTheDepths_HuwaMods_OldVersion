@@ -1,0 +1,6 @@
+v 4.2.0
+Source/PrefabUI+_v4p2p0/DLL/0Harmony.dll
+Source/PrefabUI+_v4p2p0/DLL/PrefabUI+.dll
+v 3.3.10
+Source/PrefabUI+_v3p3p10/DLL/0Harmony.dll
+Source/PrefabUI+_v3p3p10/DLL/PrefabUI+.dll
